@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ai-Agent/static/css/main.0e7e7406.css",
-    "main.js": "/Ai-Agent/static/js/main.7dae57fd.js",
+    "main.js": "/Ai-Agent/static/js/main.892af144.js",
     "index.html": "/Ai-Agent/index.html",
     "main.0e7e7406.css.map": "/Ai-Agent/static/css/main.0e7e7406.css.map",
-    "main.7dae57fd.js.map": "/Ai-Agent/static/js/main.7dae57fd.js.map"
+    "main.892af144.js.map": "/Ai-Agent/static/js/main.892af144.js.map"
   },
   "entrypoints": [
     "static/css/main.0e7e7406.css",
-    "static/js/main.7dae57fd.js"
+    "static/js/main.892af144.js"
   ]
 }
