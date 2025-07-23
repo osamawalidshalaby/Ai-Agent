@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { useLocalStorage } from "./LocalStroage";
-// const API_KEY =
-//   "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";
+
 
 const API_KEY = process.env.REACT_APP_OPENROUTER_API_KEY;
 
